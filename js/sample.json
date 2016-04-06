@@ -1,0 +1,928 @@
+{
+    "meta": {
+        "per_page": 10,
+        "total": 211,
+        "page": 1,
+        "geolocation": {
+            "city": "New Brunswick",
+            "display_name": "New Brunswick, NJ",
+            "country": "US",
+            "lon": -74.4432,
+            "range": "15mi",
+            "state": "NJ",
+            "postal_code": "08901",
+            "lat": 40.4835
+        }
+    },
+    "events": [
+        {
+            "links": [],
+            "id": 2943051,
+            "stats": {
+                "listing_count": 2,
+                "average_price": 174,
+                "lowest_price_good_deals": null,
+                "lowest_price": 146,
+                "highest_price": 202
+            },
+            "title": "The Mousetrap - Princeton",
+            "announce_date": "2015-11-24T00:00:00",
+            "score": 0.411458,
+            "date_tbd": false,
+            "type": "broadway_tickets_national",
+            "datetime_local": "2016-03-19T15:00:00",
+            "visible_until_utc": "2016-03-19T23:00:00",
+            "time_tbd": false,
+            "taxonomies": [
+                {
+                    "parent_id": null,
+                    "id": 3000000,
+                    "name": "theater"
+                },
+                {
+                    "parent_id": 3000000,
+                    "id": 3030000,
+                    "name": "broadway_tickets_national"
+                }
+            ],
+            "performers": [
+                {
+                    "stats": {
+                        "event_count": 385
+                    },
+                    "name": "The Mousetrap",
+                    "short_name": "The Mousetrap",
+                    "divisions": null,
+                    "url": "https://seatgeek.com/the-mousetrap-tickets",
+                    "type": "theater_broadway_national_tours",
+                    "image": null,
+                    "home_venue_id": null,
+                    "primary": true,
+                    "score": 0.323944,
+                    "images": {},
+                    "slug": "the-mousetrap",
+                    "taxonomies": [
+                        {
+                            "parent_id": null,
+                            "id": 3000000,
+                            "name": "theater"
+                        },
+                        {
+                            "parent_id": 3000000,
+                            "id": 3030000,
+                            "name": "broadway_tickets_national"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "id": 10098
+                }
+            ],
+            "url": "https://seatgeek.com/the-mousetrap-princeton-tickets/mccarter-theatre-2016-03-19-3-pm/broadway/2943051",
+            "created_at": "2015-11-24T00:00:00",
+            "venue": {
+                "city": "Princeton",
+                "name": "McCarter Theatre",
+                "extended_address": "Princeton, NJ 08540",
+                "url": "https://seatgeek.com/venues/mccarter-theatre/tickets",
+                "country": "US",
+                "display_location": "Princeton, NJ",
+                "links": [],
+                "slug": "mccarter-theatre",
+                "state": "NJ",
+                "score": 0.447956,
+                "postal_code": "08540",
+                "location": {
+                    "lat": 40.3444,
+                    "lon": -74.6601
+                },
+                "address": "91 University Place",
+                "timezone": "America/New_York",
+                "id": 1576
+            },
+            "short_title": "The Mousetrap - Princeton",
+            "datetime_utc": "2016-03-19T19:00:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "id": 3118320,
+            "stats": {
+                "listing_count": 0,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null
+            },
+            "title": "The Sensational Soul Cruisers",
+            "announce_date": "2016-02-22T00:00:00",
+            "score": 0.412194,
+            "date_tbd": false,
+            "type": "concert",
+            "datetime_local": "2016-03-19T20:00:00",
+            "visible_until_utc": "2016-03-20T04:00:00",
+            "time_tbd": false,
+            "taxonomies": [
+                {
+                    "parent_id": null,
+                    "id": 2000000,
+                    "name": "concert"
+                }
+            ],
+            "performers": [
+                {
+                    "image": null,
+                    "primary": true,
+                    "images": {},
+                    "has_upcoming_events": true,
+                    "id": 29371,
+                    "genres": [
+                        {
+                            "slug": "soul",
+                            "primary": false,
+                            "name": "Soul"
+                        },
+                        {
+                            "slug": "rnb",
+                            "primary": false,
+                            "name": "Rnb"
+                        }
+                    ],
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "score": 0,
+                    "taxonomies": [
+                        {
+                            "parent_id": null,
+                            "id": 2000000,
+                            "name": "concert"
+                        }
+                    ],
+                    "type": "band",
+                    "short_name": "The Sensational Soul Cruisers",
+                    "home_venue_id": null,
+                    "slug": "the-sensational-soul-cruisers",
+                    "divisions": null,
+                    "name": "The Sensational Soul Cruisers",
+                    "url": "https://seatgeek.com/the-sensational-soul-cruisers-tickets"
+                }
+            ],
+            "url": "https://seatgeek.com/the-sensational-soul-cruisers-tickets/garwood-new-jersey-crossroads-2016-03-19-8-pm/concert/3118320",
+            "created_at": "2016-02-22T00:00:00",
+            "venue": {
+                "city": "Garwood",
+                "name": "Crossroads",
+                "extended_address": "Garwood, NJ 07027",
+                "url": "https://seatgeek.com/venues/crossroads/tickets",
+                "country": "US",
+                "display_location": "Garwood, NJ",
+                "links": [],
+                "slug": "crossroads",
+                "state": "NJ",
+                "score": 0.488095,
+                "postal_code": "07027",
+                "location": {
+                    "lat": 40.6526,
+                    "lon": -74.3248
+                },
+                "address": "78 North Ave",
+                "timezone": "America/New_York",
+                "id": 8141
+            },
+            "short_title": "The Sensational Soul Cruisers",
+            "datetime_utc": "2016-03-20T00:00:00",
+            "general_admission": true,
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "id": 2943050,
+            "stats": {
+                "listing_count": 2,
+                "average_price": 174,
+                "lowest_price_good_deals": null,
+                "lowest_price": 146,
+                "highest_price": 202
+            },
+            "title": "The Mousetrap - Princeton",
+            "announce_date": "2015-11-24T00:00:00",
+            "score": 0.411458,
+            "date_tbd": false,
+            "type": "broadway_tickets_national",
+            "datetime_local": "2016-03-19T20:00:00",
+            "visible_until_utc": "2016-03-20T04:00:00",
+            "time_tbd": false,
+            "taxonomies": [
+                {
+                    "parent_id": null,
+                    "id": 3000000,
+                    "name": "theater"
+                },
+                {
+                    "parent_id": 3000000,
+                    "id": 3030000,
+                    "name": "broadway_tickets_national"
+                }
+            ],
+            "performers": [
+                {
+                    "stats": {
+                        "event_count": 385
+                    },
+                    "name": "The Mousetrap",
+                    "short_name": "The Mousetrap",
+                    "divisions": null,
+                    "url": "https://seatgeek.com/the-mousetrap-tickets",
+                    "type": "theater_broadway_national_tours",
+                    "image": null,
+                    "home_venue_id": null,
+                    "primary": true,
+                    "score": 0.323944,
+                    "images": {},
+                    "slug": "the-mousetrap",
+                    "taxonomies": [
+                        {
+                            "parent_id": null,
+                            "id": 3000000,
+                            "name": "theater"
+                        },
+                        {
+                            "parent_id": 3000000,
+                            "id": 3030000,
+                            "name": "broadway_tickets_national"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "id": 10098
+                }
+            ],
+            "url": "https://seatgeek.com/the-mousetrap-princeton-tickets/mccarter-theatre-2016-03-19-8-pm/broadway/2943050",
+            "created_at": "2015-11-24T00:00:00",
+            "venue": {
+                "city": "Princeton",
+                "name": "McCarter Theatre",
+                "extended_address": "Princeton, NJ 08540",
+                "url": "https://seatgeek.com/venues/mccarter-theatre/tickets",
+                "country": "US",
+                "display_location": "Princeton, NJ",
+                "links": [],
+                "slug": "mccarter-theatre",
+                "state": "NJ",
+                "score": 0.447956,
+                "postal_code": "08540",
+                "location": {
+                    "lat": 40.3444,
+                    "lon": -74.6601
+                },
+                "address": "91 University Place",
+                "timezone": "America/New_York",
+                "id": 1576
+            },
+            "short_title": "The Mousetrap - Princeton",
+            "datetime_utc": "2016-03-20T00:00:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "id": 3154767,
+            "stats": {
+                "listing_count": null,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null
+            },
+            "title": "Rose Boulevard",
+            "announce_date": "2016-03-16T00:00:00",
+            "score": null,
+            "date_tbd": false,
+            "type": "concert",
+            "datetime_local": "2016-03-19T20:00:00",
+            "visible_until_utc": "2016-03-20T04:00:00",
+            "time_tbd": false,
+            "taxonomies": [
+                {
+                    "parent_id": null,
+                    "id": 2000000,
+                    "name": "concert"
+                }
+            ],
+            "performers": [
+                {
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "name": "Rose Boulevard",
+                    "short_name": "Rose Boulevard",
+                    "divisions": null,
+                    "url": "https://seatgeek.com/rose-boulevard-tickets",
+                    "type": "band",
+                    "image": null,
+                    "home_venue_id": null,
+                    "primary": true,
+                    "score": 0,
+                    "images": {},
+                    "slug": "rose-boulevard",
+                    "taxonomies": [
+                        {
+                            "parent_id": null,
+                            "id": 2000000,
+                            "name": "concert"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "id": 321145
+                }
+            ],
+            "url": "https://seatgeek.com/rose-boulevard-tickets/metuchen-new-jersey-old-franklin-schoolhouse-2016-03-19-8-pm/concert/3154767",
+            "created_at": "2016-03-16T00:00:00",
+            "venue": {
+                "city": "Metuchen",
+                "name": "Old Franklin Schoolhouse",
+                "extended_address": "Metuchen, NJ ",
+                "url": "https://seatgeek.com/venues/old-franklin-schoolhouse/tickets",
+                "country": "US",
+                "display_location": "Metuchen, NJ",
+                "links": [],
+                "slug": "old-franklin-schoolhouse",
+                "state": "NJ",
+                "score": 0,
+                "postal_code": "",
+                "location": {
+                    "lat": 40.5441,
+                    "lon": -74.3616
+                },
+                "address": null,
+                "timezone": "America/New_York",
+                "id": 108851
+            },
+            "short_title": "Rose Boulevard",
+            "datetime_utc": "2016-03-20T00:00:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "id": 3155195,
+            "stats": {
+                "listing_count": 0,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null
+            },
+            "title": "STARMAN: The Bowie Tribute",
+            "announce_date": "2016-03-16T00:00:00",
+            "score": 0,
+            "date_tbd": false,
+            "type": "concert",
+            "datetime_local": "2016-03-19T21:00:00",
+            "visible_until_utc": "2016-03-20T05:00:00",
+            "time_tbd": false,
+            "taxonomies": [
+                {
+                    "parent_id": null,
+                    "id": 2000000,
+                    "name": "concert"
+                }
+            ],
+            "performers": [
+                {
+                    "stats": {
+                        "event_count": 2
+                    },
+                    "name": "STARMAN: The BOWIE Tribute",
+                    "short_name": "STARMAN: The BOWIE Tribute",
+                    "divisions": null,
+                    "url": "https://seatgeek.com/starman-the-bowie-tribute-tickets",
+                    "type": "band",
+                    "image": null,
+                    "home_venue_id": null,
+                    "primary": true,
+                    "score": 0,
+                    "images": {},
+                    "slug": "starman-the-bowie-tribute",
+                    "taxonomies": [
+                        {
+                            "parent_id": null,
+                            "id": 2000000,
+                            "name": "concert"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "id": 481708
+                }
+            ],
+            "url": "https://seatgeek.com/starman-the-bowie-tribute-tickets/dunellen-new-jersey-roxy-and-dukes-roadhouse-2016-03-19-9-pm/concert/3155195",
+            "created_at": "2016-03-16T00:00:00",
+            "venue": {
+                "city": "Dunellen",
+                "name": "Roxy and Dukes Roadhouse",
+                "extended_address": "Dunellen, NJ 08812",
+                "url": "https://seatgeek.com/venues/roxy-and-dukes-roadhouse/tickets",
+                "country": "US",
+                "display_location": "Dunellen, NJ",
+                "links": [],
+                "slug": "roxy-and-dukes-roadhouse",
+                "state": "NJ",
+                "score": 0,
+                "postal_code": "08812",
+                "location": {
+                    "lat": 40.5877,
+                    "lon": -74.4731
+                },
+                "address": "745 Bound Brook Rd.",
+                "timezone": "America/New_York",
+                "id": 43344
+            },
+            "short_title": "STARMAN: The Bowie Tribute",
+            "datetime_utc": "2016-03-20T01:00:00",
+            "general_admission": true,
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "id": 2943049,
+            "stats": {
+                "listing_count": 4,
+                "average_price": 226,
+                "lowest_price_good_deals": null,
+                "lowest_price": 146,
+                "highest_price": 268
+            },
+            "title": "The Mousetrap - Princeton",
+            "announce_date": "2015-11-24T00:00:00",
+            "score": 0.411458,
+            "date_tbd": false,
+            "type": "broadway_tickets_national",
+            "datetime_local": "2016-03-20T14:00:00",
+            "visible_until_utc": "2016-03-20T22:00:00",
+            "time_tbd": false,
+            "taxonomies": [
+                {
+                    "parent_id": null,
+                    "id": 3000000,
+                    "name": "theater"
+                },
+                {
+                    "parent_id": 3000000,
+                    "id": 3030000,
+                    "name": "broadway_tickets_national"
+                }
+            ],
+            "performers": [
+                {
+                    "stats": {
+                        "event_count": 385
+                    },
+                    "name": "The Mousetrap",
+                    "short_name": "The Mousetrap",
+                    "divisions": null,
+                    "url": "https://seatgeek.com/the-mousetrap-tickets",
+                    "type": "theater_broadway_national_tours",
+                    "image": null,
+                    "home_venue_id": null,
+                    "primary": true,
+                    "score": 0.323944,
+                    "images": {},
+                    "slug": "the-mousetrap",
+                    "taxonomies": [
+                        {
+                            "parent_id": null,
+                            "id": 3000000,
+                            "name": "theater"
+                        },
+                        {
+                            "parent_id": 3000000,
+                            "id": 3030000,
+                            "name": "broadway_tickets_national"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "id": 10098
+                }
+            ],
+            "url": "https://seatgeek.com/the-mousetrap-princeton-tickets/mccarter-theatre-2016-03-20-2-pm/broadway/2943049",
+            "created_at": "2015-11-24T00:00:00",
+            "venue": {
+                "city": "Princeton",
+                "name": "McCarter Theatre",
+                "extended_address": "Princeton, NJ 08540",
+                "url": "https://seatgeek.com/venues/mccarter-theatre/tickets",
+                "country": "US",
+                "display_location": "Princeton, NJ",
+                "links": [],
+                "slug": "mccarter-theatre",
+                "state": "NJ",
+                "score": 0.447956,
+                "postal_code": "08540",
+                "location": {
+                    "lat": 40.3444,
+                    "lon": -74.6601
+                },
+                "address": "91 University Place",
+                "timezone": "America/New_York",
+                "id": 1576
+            },
+            "short_title": "The Mousetrap - Princeton",
+            "datetime_utc": "2016-03-20T18:00:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "id": 3139677,
+            "stats": {
+                "listing_count": 0,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null
+            },
+            "title": "Round2Crew with Alyssa Shouse",
+            "announce_date": "2016-03-08T00:00:00",
+            "score": 0.412194,
+            "date_tbd": false,
+            "type": "concert",
+            "datetime_local": "2016-03-20T18:00:00",
+            "visible_until_utc": "2016-03-21T02:00:00",
+            "time_tbd": false,
+            "taxonomies": [
+                {
+                    "parent_id": null,
+                    "id": 2000000,
+                    "name": "concert"
+                }
+            ],
+            "performers": [
+                {
+                    "stats": {
+                        "event_count": 3
+                    },
+                    "name": "Alyssa Shouse",
+                    "short_name": "Alyssa Shouse",
+                    "divisions": null,
+                    "url": "https://seatgeek.com/alyssa-shouse-tickets",
+                    "type": "band",
+                    "image": null,
+                    "home_venue_id": null,
+                    "slug": "alyssa-shouse",
+                    "score": 0,
+                    "images": {},
+                    "taxonomies": [
+                        {
+                            "parent_id": null,
+                            "id": 2000000,
+                            "name": "concert"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "id": 256447,
+                    "genres": [
+                        {
+                            "slug": "pop",
+                            "primary": false,
+                            "name": "Pop"
+                        },
+                        {
+                            "slug": "rock",
+                            "primary": true,
+                            "name": "Rock"
+                        }
+                    ]
+                },
+                {
+                    "stats": {
+                        "event_count": 2
+                    },
+                    "name": "Round2Crew",
+                    "short_name": "Round2Crew",
+                    "divisions": null,
+                    "url": "https://seatgeek.com/round2crew-tickets",
+                    "type": "band",
+                    "image": null,
+                    "home_venue_id": null,
+                    "primary": true,
+                    "score": 0,
+                    "images": {},
+                    "slug": "round2crew",
+                    "taxonomies": [
+                        {
+                            "parent_id": null,
+                            "id": 2000000,
+                            "name": "concert"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "id": 473146
+                }
+            ],
+            "url": "https://seatgeek.com/round2crew-with-alyssa-shouse-tickets/garwood-new-jersey-crossroads-2016-03-20-6-pm/concert/3139677",
+            "created_at": "2016-03-08T00:00:00",
+            "venue": {
+                "city": "Garwood",
+                "name": "Crossroads",
+                "extended_address": "Garwood, NJ 07027",
+                "url": "https://seatgeek.com/venues/crossroads/tickets",
+                "country": "US",
+                "display_location": "Garwood, NJ",
+                "links": [],
+                "slug": "crossroads",
+                "state": "NJ",
+                "score": 0.488095,
+                "postal_code": "07027",
+                "location": {
+                    "lat": 40.6526,
+                    "lon": -74.3248
+                },
+                "address": "78 North Ave",
+                "timezone": "America/New_York",
+                "id": 8141
+            },
+            "short_title": "Round2Crew with Alyssa Shouse",
+            "datetime_utc": "2016-03-20T22:00:00",
+            "general_admission": true,
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "id": 3074344,
+            "stats": {
+                "listing_count": 0,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null
+            },
+            "title": "DJ TALENT",
+            "announce_date": "2016-02-01T00:00:00",
+            "score": 0.448966,
+            "date_tbd": false,
+            "type": "comedy",
+            "datetime_local": "2016-03-20T20:00:00",
+            "visible_until_utc": "2016-03-21T04:00:00",
+            "time_tbd": false,
+            "taxonomies": [
+                {
+                    "parent_id": null,
+                    "id": 3000000,
+                    "name": "theater"
+                },
+                {
+                    "parent_id": 3000000,
+                    "id": 3040000,
+                    "name": "comedy"
+                }
+            ],
+            "performers": [
+                {
+                    "stats": {
+                        "event_count": 3
+                    },
+                    "name": "DJ TALENT",
+                    "short_name": "DJ TALENT",
+                    "divisions": null,
+                    "url": "https://seatgeek.com/dj-talent-tickets",
+                    "type": "band",
+                    "image": null,
+                    "home_venue_id": null,
+                    "primary": true,
+                    "score": 0,
+                    "images": {},
+                    "slug": "dj-talent",
+                    "taxonomies": [
+                        {
+                            "parent_id": null,
+                            "id": 2000000,
+                            "name": "concert"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "id": 24996
+                }
+            ],
+            "url": "https://seatgeek.com/dj-talent-tickets/comedy/2016-03-20-8-pm/3074344",
+            "created_at": "2016-02-01T00:00:00",
+            "venue": {
+                "city": "New Brunswick",
+                "name": "Stress Factory",
+                "extended_address": "New Brunswick, NJ 08901",
+                "url": "https://seatgeek.com/venues/stress-factory/tickets",
+                "country": "US",
+                "display_location": "New Brunswick, NJ",
+                "links": [],
+                "slug": "stress-factory",
+                "state": "NJ",
+                "score": 0.527727,
+                "postal_code": "08901",
+                "location": {
+                    "lat": 40.496,
+                    "lon": -74.4434
+                },
+                "address": "90 Church St",
+                "timezone": "America/New_York",
+                "id": 33867
+            },
+            "short_title": "DJ TALENT",
+            "datetime_utc": "2016-03-21T00:00:00",
+            "general_admission": true,
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "id": 3157428,
+            "stats": {
+                "listing_count": 0,
+                "average_price": null,
+                "lowest_price_good_deals": null,
+                "lowest_price": null,
+                "highest_price": null
+            },
+            "title": "Afro-Asian Atlantic with The Caribbean",
+            "announce_date": "2016-03-16T00:00:00",
+            "score": 0.323536,
+            "date_tbd": false,
+            "type": "concert",
+            "datetime_local": "2016-03-21T16:30:00",
+            "visible_until_utc": "2016-03-22T00:30:00",
+            "time_tbd": false,
+            "taxonomies": [
+                {
+                    "parent_id": null,
+                    "id": 2000000,
+                    "name": "concert"
+                }
+            ],
+            "performers": [
+                {
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "name": "The Caribbean",
+                    "short_name": "The Caribbean",
+                    "divisions": null,
+                    "url": "https://seatgeek.com/the-caribbean-tickets",
+                    "type": "band",
+                    "image": null,
+                    "home_venue_id": null,
+                    "slug": "the-caribbean",
+                    "score": 0,
+                    "images": {},
+                    "taxonomies": [
+                        {
+                            "parent_id": null,
+                            "id": 2000000,
+                            "name": "concert"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "id": 20710,
+                    "genres": [
+                        {
+                            "slug": "rock",
+                            "primary": true,
+                            "name": "Rock"
+                        }
+                    ]
+                },
+                {
+                    "stats": {
+                        "event_count": 1
+                    },
+                    "name": "Afro-Asian Atlantic",
+                    "short_name": "Afro-Asian Atlantic",
+                    "divisions": null,
+                    "url": "https://seatgeek.com/afro-asian-atlantic-tickets",
+                    "type": "band",
+                    "image": null,
+                    "home_venue_id": null,
+                    "primary": true,
+                    "score": 0,
+                    "images": {},
+                    "slug": "afro-asian-atlantic",
+                    "taxonomies": [
+                        {
+                            "parent_id": null,
+                            "id": 2000000,
+                            "name": "concert"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "id": 478637
+                }
+            ],
+            "url": "https://seatgeek.com/afro-asian-atlantic-with-the-caribbean-tickets/princeton-new-jersey-princeton-stadium-2016-03-21-4-30-pm/concert/3157428",
+            "created_at": "2016-03-16T00:00:00",
+            "venue": {
+                "city": "Princeton",
+                "name": "Princeton Stadium",
+                "extended_address": "Princeton, NJ 08544",
+                "url": "https://seatgeek.com/venues/princeton-stadium/tickets",
+                "country": "US",
+                "display_location": "Princeton, NJ",
+                "links": [],
+                "slug": "princeton-stadium",
+                "state": "NJ",
+                "score": 0.393603,
+                "postal_code": "08544",
+                "location": {
+                    "lat": 40.3259,
+                    "lon": -74.6279
+                },
+                "address": "200 Manor Ave",
+                "timezone": "America/New_York",
+                "id": 5952
+            },
+            "short_title": "Afro-Asian Atlantic with The Caribbean",
+            "datetime_utc": "2016-03-21T20:30:00",
+            "datetime_tbd": false
+        },
+        {
+            "links": [],
+            "id": 3073601,
+            "stats": {
+                "listing_count": 1,
+                "average_price": 34,
+                "lowest_price_good_deals": null,
+                "lowest_price": 34,
+                "highest_price": 34
+            },
+            "title": "John Leguizamo",
+            "announce_date": "2016-01-31T00:00:00",
+            "score": 0.437296,
+            "date_tbd": false,
+            "type": "comedy",
+            "datetime_local": "2016-03-21T19:00:00",
+            "visible_until_utc": "2016-03-22T03:00:00",
+            "time_tbd": false,
+            "taxonomies": [
+                {
+                    "parent_id": null,
+                    "id": 3000000,
+                    "name": "theater"
+                },
+                {
+                    "parent_id": 3000000,
+                    "id": 3040000,
+                    "name": "comedy"
+                }
+            ],
+            "performers": [
+                {
+                    "stats": {
+                        "event_count": 4
+                    },
+                    "name": "John Leguizamo",
+                    "short_name": "John Leguizamo",
+                    "divisions": null,
+                    "url": "https://seatgeek.com/john-leguizamo-tickets",
+                    "type": "theater_comedy",
+                    "image": null,
+                    "home_venue_id": null,
+                    "primary": true,
+                    "score": 0.45604,
+                    "images": {},
+                    "slug": "john-leguizamo",
+                    "taxonomies": [
+                        {
+                            "parent_id": null,
+                            "id": 3000000,
+                            "name": "theater"
+                        },
+                        {
+                            "parent_id": 3000000,
+                            "id": 3040000,
+                            "name": "comedy"
+                        }
+                    ],
+                    "has_upcoming_events": true,
+                    "id": 5243
+                }
+            ],
+            "url": "https://seatgeek.com/john-leguizamo-tickets/comedy/2016-03-21-7-pm/3073601",
+            "created_at": "2016-01-31T00:00:00",
+            "venue": {
+                "city": "New Brunswick",
+                "name": "Stress Factory",
+                "extended_address": "New Brunswick, NJ 08901",
+                "url": "https://seatgeek.com/venues/stress-factory/tickets",
+                "country": "US",
+                "display_location": "New Brunswick, NJ",
+                "links": [],
+                "slug": "stress-factory",
+                "state": "NJ",
+                "score": 0.527727,
+                "postal_code": "08901",
+                "location": {
+                    "lat": 40.496,
+                    "lon": -74.4434
+                },
+                "address": "90 Church St",
+                "timezone": "America/New_York",
+                "id": 33867
+            },
+            "short_title": "John Leguizamo",
+            "datetime_utc": "2016-03-21T23:00:00",
+            "general_admission": true,
+            "datetime_tbd": false
+        }
+    ]
+}
