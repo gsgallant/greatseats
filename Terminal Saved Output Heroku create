@@ -1,0 +1,119 @@
+Last login: Wed Apr  6 10:05:47 on ttys000
+Greg@Gregs-MacBook-Pro:~$ cd desktop/week-8-greatSeats
+Greg@Gregs-MacBook-Pro:~/desktop/week-8-greatSeats$ git add -A
+Greg@Gregs-MacBook-Pro:~/desktop/week-8-greatSeats$ git commit -m "group project"
+[master (root-commit) 221117f] group project
+ Committer: gsgallant <Greg@Gregs-MacBook-Pro.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 49 files changed, 8187 insertions(+)
+ create mode 100644 README.md
+ create mode 100644 composer.json
+ create mode 100644 css/animate.css
+ create mode 100644 css/bootstrap.min.css
+ create mode 100644 css/font-awesome.min.css
+ create mode 100644 css/main.css
+ create mode 100644 css/responsive.css
+ create mode 100644 fonts/FontAwesome.otf
+ create mode 100644 fonts/fontawesome-webfont.eot
+ create mode 100644 fonts/fontawesome-webfont.svg
+ create mode 100644 fonts/fontawesome-webfont.ttf
+ create mode 100644 fonts/fontawesome-webfont.woff
+ create mode 100644 fonts/glyphicons-halflings-regular.eot
+ create mode 100644 fonts/glyphicons-halflings-regular.svg
+ create mode 100644 fonts/glyphicons-halflings-regular.ttf
+ create mode 100644 fonts/glyphicons-halflings-regular.woff
+ create mode 100644 images/about-bg.jpg
+ create mode 100644 images/contact-bg.jpg
+ create mode 100644 images/ear-piece.png
+ create mode 100644 images/event-bg.jpg
+ create mode 100644 images/footer-bg.jpg
+ create mode 100644 images/guitar.png
+ create mode 100644 images/guitar2.jpg
+ create mode 100644 images/guyonstage.jpg
+ create mode 100644 images/header-bg.png
+ create mode 100644 images/liveshowbkgd.jpg
+ create mode 100644 images/miles-davis-2.jpg
+ create mode 100644 images/performar-bg.jpg
+ create mode 100644 images/slider2/dj.jpg
+ create mode 100644 images/slider2/magic.jpg
+ create mode 100644 images/slider2/miles.jpg
+ create mode 100644 images/sponsor-bg.jpg
+ create mode 100644 images/twitter-bg.jpg
+ create mode 100644 images/yellowlights.jpeg
+ create mode 100644 index.html
+ create mode 100644 index.php
+ create mode 100644 js/bootstrap.min.js
+ create mode 100644 js/coundown-timer.js
+ create mode 100644 js/html5shiv.js
+ create mode 100644 js/javascript.js
+ create mode 100644 js/jquery.js
+ create mode 100644 js/jquery.nav.js
+ create mode 100644 js/jquery.parallax.js
+ create mode 100644 js/jquery.scrollTo.js
+ create mode 100644 js/main.js
+ create mode 100644 js/modernizr.custom.86080.js
+ create mode 100644 js/respond.min.js
+ create mode 100644 js/sample.json
+ create mode 100644 js/smoothscroll.js
+Greg@Gregs-MacBook-Pro:~/desktop/week-8-greatSeats (master)$ git push origin master
+Counting objects: 56, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (54/54), done.
+Writing objects: 100% (56/56), 7.14 MiB | 1.55 MiB/s, done.
+Total 56 (delta 1), reused 0 (delta 0)
+To https://github.com/gsgallant/week-8-greatSeats.git
+ * [new branch]      master -> master
+Greg@Gregs-MacBook-Pro:~/desktop/week-8-greatSeats (master)$ heroku login
+heroku-cli: Updating to 4.29.0-cac96d9... done
+heroku-cli: Updating plugins... done. Updated 8 packages.
+Enter your Heroku credentials.
+Email: greg.gallant@yahoo.com
+Password (typing will be hidden): 
+Logged in as greg.gallant@yahoo.com
+Greg@Gregs-MacBook-Pro:~/desktop/week-8-greatSeats (master)$ heroku create
+Creating app... done, stack is cedar-14
+https://enigmatic-temple-16619.herokuapp.com/ | https://git.heroku.com/enigmatic-temple-16619.git
+Greg@Gregs-MacBook-Pro:~/desktop/week-8-greatSeats (master)$ git push heroku master
+Counting objects: 56, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (54/54), done.
+Writing objects: 100% (56/56), 7.14 MiB | 1.34 MiB/s, done.
+Total 56 (delta 1), reused 0 (delta 0)
+remote: Compressing source files... done.
+remote: Building source:
+remote: 
+remote: -----> PHP app detected
+remote: -----> Bootstrapping...
+remote: -----> Installing platform packages...
+remote:        NOTICE: No runtime required in composer.lock; using PHP ^5.5.17
+remote:        - apache (2.4.18)
+remote:        - nginx (1.8.1)
+remote:        - php (5.6.20)
+remote: -----> Installing dependencies...
+remote:        Composer version 1.0.0-beta2 2016-03-27 16:00:34
+remote: -----> Preparing runtime environment...
+remote:        NOTICE: No Procfile, using 'web: vendor/bin/heroku-php-apache2'.
+remote: -----> Checking for additional extensions to install...
+remote: -----> Discovering process types
+remote:        Procfile declares types -> web
+remote: 
+remote: -----> Compressing...
+remote:        Done: 18.6M
+remote: -----> Launching...
+remote:        Released v3
+remote:        https://enigmatic-temple-16619.herokuapp.com/ deployed to Heroku
+remote: 
+remote: Verifying deploy.... done.
+To https://git.heroku.com/enigmatic-temple-16619.git
+ * [new branch]      master -> master
+Greg@Gregs-MacBook-Pro:~/desktop/week-8-greatSeats (master)$ 
