@@ -1,5 +1,22 @@
 #Great Seats -- Group Project, Rutgers Coding Bootcamp 
 ***
+#App can be seen at:
+- http://greatseats.herokuapp.com/
+
+#Screenshots:
+<p align="center">
+<span>
+<img src="https://github.com/gsgallant/screenshots/blob/master/greatseats/Screen%20Shot%202016-04-06%20at%204.12.51%20PM.png" width="48%" height="auto"/>
+<img src="https://github.com/gsgallant/screenshots/blob/master/greatseats/Screen%20Shot%202016-04-06%20at%204.13.20%20PM.png" width="48%" height="auto"/>
+</span>
+</p>
+<p align="center">
+<span>
+<img src="https://github.com/gsgallant/screenshots/blob/master/greatseats/Screen%20Shot%202016-04-06%20at%204.13.41%20PM.png" width="48%" height="auto"/>
+<img src="https://github.com/gsgallant/screenshots/blob/master/greatseats/Screen%20Shot%202016-04-06%20at%204.13.50%20PM.png" width="48%" height="auto"/>
+</span>
+</p>
+
 
 Group participants:  Greg Gallant, Jeremy Gross, Dhaval Desai
 
@@ -15,10 +32,8 @@ This was written for our week 8-9 group project.  Resources used in coding this 
 - Google Maps, Youtube and Seatgeek APIs
 - Firebase
 
-See it live at cheapseats.herokuapp.com
-
 ***
 
-![alt text](./screenshot1.png "screenshot of app") ![alt text](./screenshot2.png "another screenshot") ![alt text](./screenshot3.png "another screenshot of app")
-
+<!-- ![alt text](./screenshot1.png "screenshot of app") ![alt text](./screenshot2.png "another screenshot") ![alt text](./screenshot3.png "another screenshot of app")
+ -->
 
