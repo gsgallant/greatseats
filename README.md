@@ -1,4 +1,4 @@
-#Great Seats -- Group Project, Rutgers Coding Bootcamp 
+#Great Seats -- Group Project
 ***
 #App can be seen at:
 - http://greatseats.herokuapp.com/
@@ -18,7 +18,7 @@
 </p>
 
 
-Group participants:  Greg Gallant, Jeremy Gross, Dhaval Desai
+Group:  Greg Gallant, Jeremy Gross, Dhaval Desai
 
 Great Seats allows you to search for live entertainment events by geographic area.  Upon choosing an area, you are presented with a sortable list of venues and events.  Clicking on a given event brings up a presentation about the peformer/event.  Finally, the app has an event/venue review feature, stored in Firebase. 
 
@@ -34,6 +34,4 @@ This was written for our week 8-9 group project.  Resources used in coding this 
 
 ***
 
-<!-- ![alt text](./screenshot1.png "screenshot of app") ![alt text](./screenshot2.png "another screenshot") ![alt text](./screenshot3.png "another screenshot of app")
- -->
 
